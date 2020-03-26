@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="393b4f9e-4a6b-4734-b3f0-4bc4ab0ed565" name="Default Changelist" comment="" />
+    <list default="true" id="393b4f9e-4a6b-4734-b3f0-4bc4ab0ed565" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hw2.3.1-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hw2.3.1-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw2.3.1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zd4OOUj9w6lymlOD0epSWRZULw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +32,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw2.3.1.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="hw2.3.1-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -65,29 +78,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="254" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585220540122">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="254" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1585220540122" />
     <state x="519" y="61" key="#hw2.3.1-2" timestamp="1585158754025">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="519" y="61" key="#hw2.3.1-2/0.0.1600.870@0.0.1600.870" timestamp="1585158754025" />
-    <state width="1579" height="226" key="GridCell.Tab.0.bottom" timestamp="1585158682761">
+    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1585234430739">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585158682761" />
-    <state width="1579" height="226" key="GridCell.Tab.0.center" timestamp="1585158682761">
+    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1585234430739" />
+    <state width="1579" height="226" key="GridCell.Tab.0.bottom" timestamp="1585234799024">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585158682761" />
-    <state width="1579" height="226" key="GridCell.Tab.0.left" timestamp="1585158682761">
+    <state width="1579" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585234799024" />
+    <state width="1579" height="226" key="GridCell.Tab.0.center" timestamp="1585234799023">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585158682761" />
-    <state width="1579" height="226" key="GridCell.Tab.0.right" timestamp="1585158682761">
+    <state width="1579" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585234799023" />
+    <state width="1579" height="226" key="GridCell.Tab.0.left" timestamp="1585234799023">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585158682761" />
-    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1585156073235">
+    <state width="1579" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585234799023" />
+    <state width="1579" height="226" key="GridCell.Tab.0.right" timestamp="1585234799023">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1585156073235" />
+    <state width="1579" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585234799023" />
+    <state x="301" y="77" key="SettingsEditor" timestamp="1585234435467">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="301" y="77" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1585234435467" />
+    <state x="495" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1585220564021">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="495" y="258" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1585220564021" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1585220829641">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1585220829641" />
   </component>
 </project>
